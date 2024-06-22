@@ -1,3 +1,5 @@
+<img src="Thumbnail.jpg" alt="Alt Text" width="600">
+
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/aditya-singh-b45954206/">
