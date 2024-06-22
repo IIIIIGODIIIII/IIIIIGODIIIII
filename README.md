@@ -28,8 +28,8 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-<div align="center">
 # 📊 GitHub Stats:
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIIIIGODIIIII&theme=dark&hide_border=true"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
