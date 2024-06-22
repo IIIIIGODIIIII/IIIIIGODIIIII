@@ -1,4 +1,7 @@
-![LIFE](Windmill.gif)
+<div align="center">
+    <img src="Windmill.gif" alt="Description" width="80%" style="border-radius: 15px;">
+</div>
+
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
