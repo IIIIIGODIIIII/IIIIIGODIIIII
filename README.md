@@ -39,5 +39,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-
-i want to put the headings in the center how do i do it
