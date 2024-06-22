@@ -30,9 +30,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIIIIGODIIIII&theme=dark&hide_border=true"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    ![](https://github-readme-stats.vercel.app/api?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=IIIIIGODIIIII&theme=dark&hide_border=true)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
