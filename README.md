@@ -1,4 +1,4 @@
-<img src="Windmill.jpg" alt="Alt Text" width="850">
+![LIFE](Windmill.gif)
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
