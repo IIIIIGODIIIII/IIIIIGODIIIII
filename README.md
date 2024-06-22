@@ -1,4 +1,4 @@
-<img src="Thumbnail.jpg" alt="Alt Text" width="850" height="650">
+<img src="Thumbnail.jpg" alt="Alt Text" width="850" height="650" style="border-radius: 15px;">
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
