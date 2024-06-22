@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://x.com/AdityaPatel2505/">
-        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) alt="X">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
     </a>
 </div>
 
@@ -44,6 +44,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</div>
 
