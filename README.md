@@ -1,4 +1,4 @@
-<img src="Thumbnail.jpg" alt="Alt Text" width="900" height="600">
+<img src="Thumbnail.jpg" alt="Alt Text" width="850" height="600">
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
