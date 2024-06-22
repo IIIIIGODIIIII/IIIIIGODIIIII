@@ -29,11 +29,11 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 <h2 align="center">📊 GitHub Stats</h2>
-<a align="center">
+<p align="center">
     ![](https://github-readme-stats.vercel.app/api?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=IIIIIGODIIIII&theme=dark&hide_border=true)<br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
