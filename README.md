@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Windmill.gif" alt="Description" width="110%" style="border-radius: 15px;">
+    <img src="Windmill.gif" alt="Description" width="110%" style="border-radius: 15px; border-radius=5px">
 </div>
 
 
